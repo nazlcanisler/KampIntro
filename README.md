@@ -1,4 +1,4 @@
-# KampIntro
+# GameProject Simulation
 
 Bir oyun yazmak istiyorsunuz. Bu yazılım için backend kodlarını C# ile geliştirmeyi planlıyoruz. Yeni üye, satış ve kampanya yönetimi yapılması isteniyor. 
 
